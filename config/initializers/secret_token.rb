@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-RailsintallerOsxDemo::Application.config.secret_token = '77d5051c57c6c8f2c00e2e4959bea39d8a248842add90cfbf47f474d309598a08efdcba212c5c2bf0b07f6e749c29f958f98780ab6ee33f8a3a6c430d71d8e42'
+RailsintallerOsxDemo::Application.config.secret_token = '4e00d3f4993607d6e004df70bcabec15c4afffcab887f70c55cf71c77b8ceed03ff35510b87890c260b19387f0bb17d449da0ac5e29cf69d5749580f30b39ae5'
